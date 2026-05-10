@@ -1,0 +1,7 @@
+body{
+    text-align: center;
+    font-family: 'Baskerville Old Face'
+}
+#grad {
+    background-image: radial-gradient(rgb(176, 176, 241), green);
+}
